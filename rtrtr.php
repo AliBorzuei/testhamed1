@@ -1,13 +1,6 @@
 <?php
 
-echo "hello !";
-lkp3pw3i4kri4oi
-3r4r34r
+echo "hello !";echo "hello !";
 
 
-
-
-
-
-
-47534957435643765743653456834345
+echo "hello !";echo "hello !";echo "hello !";echo "hello !";echo "hello !";echo "hello !";echo "hello !";
